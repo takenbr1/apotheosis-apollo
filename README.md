@@ -1,5 +1,5 @@
-# apotheosis
-pull info from last.fm to populate an artist page on PTH
+# apotheosis-apollo (thanks to suit-of-sables for its original version: https://github.com/Suit-Of-Sables/apotheosis
+pull info from last.fm to populate an artist page on Apollo
 
 * Add similar artists
 * Add missing artist bio
@@ -10,7 +10,7 @@ pull info from last.fm to populate an artist page on PTH
 There are still bugs to be found. Please add any you come across to Issues.
 
 
-1. clone the [github repo](https://github.com/Suit-Of-Sables/apotheosis)
+1. clone the [github repo](https://github.com/takenbr1/apotheosis-apollo)
 
 2. install pylast and contextlib2 <code>$ pip install --user pylast contextlib2</code>
 
@@ -25,7 +25,7 @@ Runs script on artist with id=1234
 
 ### Copy Apotheosis Command Link
 
-Here's a [browser script](https://greasyfork.org/en/scripts/25992-pth-apotheosis-link-creator) that will add an 'Apotheosis' link at the top of the artist's page.
+Here's a [browser script[TBH]]() that will add an 'Apotheosis' link at the top of the artist's page.
 ![Apotheosis Command Link](https://ptpimg.me/wann7v.png)
 
 Clicking the link will copy the command to run the script on that artist just like in the above usage example.

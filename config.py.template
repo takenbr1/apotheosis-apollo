@@ -1,0 +1,26 @@
+# Don't forget to put quotes around it if it's a string!
+
+#[apl]
+apl_username =
+apl_password =
+# no need to change artist_page
+artist_page = 'https://apollo.rip/artist.php'
+torrents_page = 'https://apollo.rip/torrents.php'
+
+#[last.fm]
+# You have to have your own unique two values for API_KEY and API_SECRET
+# Obtain yours from http://www.last.fm/api/account for Last.fm
+api_key =
+api_secret =
+
+#[similar artists]
+# similar artists must have this min score
+min_score = 0.3333
+# add no more than this many similar artists
+max_to_add = 10
+
+
+#[image]
+# Can be found inspecting the html on your ptpimg upload page
+# Leave this as None if you don't have a ptpimg account
+ptpimg_api_key = None

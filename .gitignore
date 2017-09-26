@@ -1,2 +1,2 @@
-
-.gitattributes
+config.py
+*.pyc
